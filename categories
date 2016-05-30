@@ -1,0 +1,15 @@
+GROUP: group, organization, society, union
+COMPANY: agency, advocacy?, business, coalition, corporation, enterprise, firm, federation, network, partnership, reserve, syndicate
+ADJCOMPANY: a, big, central, d, global, international, multinational, national, nonprofit, transatlantic, united, world
+
+STRUCTURE: building, center, establishment, facility, tower, warehouse
+ADJSTRUCTURE: central, northern, public, southern, world
+
+STAPLE: avocado, apple, beef, cantaloupe, corn, cheese, dairy, egg, eggplant, egg nog, fig, grain, jam, milk, oat, potato, poultry, quinoa, rice, soybean, t, u, v, wheat, wine, x, yam, zucchini, peanut butter
+HANDLING: distribution, production, storage, trade
+
+TOPICAL: anthropological, aerospace, biological, chemical, dermatological, electrical, entomological, financial, genetic, health, industrial, kinesiological, literary, mechanical, nuclear, organic, political, radiological, religious, software, thermodynamic, urological, virological, xenobiology, zoological
+TOPIC: anthropology, astrodynamics, biology, chemistry, dermatology, electricity, entomology, finance, genetics, health, industry, kinesiology, literature, mechanics, physics, radiology, religion, software, thermodynamics, urology, virology, xenobiology, zoology
+ADJTOPIC: applied, computational, direct, foundational, quantum
+STUDY: analysis, advancement, databases, engineering, innovation, management, optimization, processes, research, studies, systems
+COLLEGE: academy, college, institute, school, university
