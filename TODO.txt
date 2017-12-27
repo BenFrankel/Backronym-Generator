@@ -1,3 +1,0 @@
-Add more content (more categories, more words per category, more templates).
-
-Write a proper scoring algorithm.
