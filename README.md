@@ -43,10 +43,10 @@ blueberry and papaya smoothie
 
 Download this repository with the following [git](https://git-scm.com/) command:
 
-`git clone https://github.com/BenFrankel/BackronymEngine`
+`git clone https://github.com/benfrankel/backronym`
 
 Navigate into the downloaded folder and run `python repl.py` to interact with the engine.
 
 ## License
 
-This project is licensed under the [Apache 2.0](https://github.com/BenFrankel/BackronymEngine/blob/master/LICENSE) license, so you are free to use, distribute, and modify it.
+This project is licensed under the [Apache 2.0](https://github.com/benfrankel/backronym/blob/master/LICENSE) license, so you are free to use, distribute, and modify it.
